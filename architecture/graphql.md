@@ -29,31 +29,30 @@
 
 #### 1. **Flexibilité des requêtes**
 
-- GraphQL permet aux clients de demander **exactement les données nécessaires**, ni plus ni moins. Cela évite les réponses contenant des données inutiles.
+GraphQL permet aux clients de demander **exactement les données nécessaires**, ni plus ni moins. Cela évite les réponses contenant des données inutiles.
 
 #### 2. **Réduction des appels multiples**
 
-- Grâce à sa capacité à regrouper plusieurs requêtes en une seule, GraphQL réduit la nécessité de faire des appels séparés pour récupérer des données provenant de différentes ressources.
+Grâce à sa capacité à regrouper plusieurs requêtes en une seule, GraphQL réduit la nécessité de faire des appels séparés pour récupérer des données provenant de différentes ressources.
 
 #### 3. **Gestion des relations complexes**
 
-- Les requêtes GraphQL peuvent gérer facilement les relations entre différentes entités (ex. : utilisateurs et leurs articles). Cela simplifie l'extraction de données imbriquées.
+Les requêtes GraphQL peuvent gérer facilement les relations entre différentes entités (ex. : utilisateurs et leurs articles). Cela simplifie l'extraction de données imbriquées.
 
 #### 4. **Évolution de l'API**
 
-- Contrairement à REST, où l'ajout de nouvelles fonctionnalités peut nécessiter de nouveaux endpoints, GraphQL permet d'ajouter ou de modifier des types et des champs sans impacter les clients existants.
+Contrairement à REST, où l'ajout de nouvelles fonctionnalités peut nécessiter de nouveaux endpoints, GraphQL permet d'ajouter ou de modifier des types et des champs sans impacter les clients existants.
 
 #### 5. **Réduction des surcharges réseau**
 
-- Utile pour les applications mobiles ou avec des connexions limitées, car GraphQL minimise le transfert de données.
+Utile pour les applications mobiles ou avec des connexions limitées, car GraphQL minimise le transfert de données.
 
 #### 6. **Documentation et introspection automatiques**
 
 - GraphQL propose des outils comme l'introspection, qui permettent aux développeurs d'explorer les types et les requêtes disponibles directement depuis l'API.
-
 - la définition d'un schéma
 
-### Définition d'un schéma - ✅ ✅
+### Définition d'un schéma - ✅
 
 #### Qu'est-ce qu'un schéma ?
 
@@ -88,8 +87,6 @@ type Mutation {
   createUser(name: String!, email: String!): User
 }
 ```
-
-- Query - ✅
 
 ### QUERY - ✅
 
