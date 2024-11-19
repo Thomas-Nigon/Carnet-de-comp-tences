@@ -2,9 +2,9 @@
 
 ## 🎓 J'ai compris et je peux expliquer
 
-- la différence entre REST et GraphQL - ✔️
+- la différence entre REST et GraphQL - ✅
 
-### Différence entre REST et GraphQL - ✔️
+### Différence entre REST et GraphQL - ✅
 
 #### REST
 
@@ -23,9 +23,9 @@
 - **GraphQL** : Plus flexible, réduit les surcharges réseau, idéal pour des interfaces complexes ou mobiles.
 - **REST** : Plus simple et convient à des API classiques, bien établies.
 
-- les besoins auxquels répond GraphQL - ✔️
+- les besoins auxquels répond GraphQL - ✅
 
-### Les besoins auxquels répond GraphQL - ✔️
+### Les besoins auxquels répond GraphQL - ✅
 
 #### 1. **Flexibilité des requêtes**
 
@@ -53,7 +53,7 @@
 
 - la définition d'un schéma
 
-### Définition d'un schéma - ✔️
+### Définition d'un schéma - ✅ ✅
 
 #### Qu'est-ce qu'un schéma ?
 
@@ -89,9 +89,9 @@ type Mutation {
 }
 ```
 
-- Query - ✔️
+- Query - ✅
 
-### QUERY - ✔️
+### QUERY - ✅
 
 ### Qu'est-ce qu'une Query ?
 
@@ -119,7 +119,7 @@ query GetUser {
 }
 ```
 
-- Mutation - ✔️
+- Mutation - ✅
 
 ### Qu'est-ce qu'une Mutation ?
 
@@ -146,7 +146,7 @@ mutation CreateUser {
 }
 ```
 
-- Subscription - ✔️
+- Subscription - ✅
 
 ### Qu'est-ce qu'une Subscription ?
 
@@ -189,7 +189,7 @@ Lorsqu'un utilisateur se connecte, il peut voir les cartes disponibles et les aj
 FrontEnd : React TS, Apollo Client
 BackEnd : NodeJS, Express, Apollo Server, GraphQL et SQlite
 
-### Un exemple personnel commenté ❌ / ✔️
+### Un exemple personnel commenté ✅
 
 Voici un exemple de code typescript commenté :
 Ici, j'ai défini un schéma pour un utilisateur. avec une entité, dans un fichier user.ts
@@ -261,7 +261,7 @@ export class UserResolver {
 }
 ```
 
-### Utilisation dans un projet ❌ / ✔️
+### Utilisation dans un projet ❌ / ✅
 
 [lien github](https://github.com/Thomas-Nigon/MTG_Backend_sqlite_TypeOrm/tree/feat/graphQlTransition)
 
@@ -271,13 +271,13 @@ Lorsqu'un utilisateur se connecte, il peut voir les cartes disponibles et les aj
 FrontEnd : React TS, Apollo Client
 BackEnd : NodeJS, Express, Apollo Server, GraphQL et SQlite
 
-### Utilisation en production si applicable❌ / ✔️
+### Utilisation en production si applicable❌ / ✅
 
 [lien du projet](...)
 
 Description :
 
-### Utilisation en environement professionnel ❌ / ✔️
+### Utilisation en environement professionnel ❌ / ✅
 
 Description :
 
@@ -290,22 +290,22 @@ Description :
 
 ## 🚧 Je franchis les obstacles
 
-### Point de blocage ❌ / ✔️
+### Point de blocage ❌ / ✅
 
 Description:
 
 Plan d'action : (à valider par le formateur)
 
-- action 1 ❌ / ✔️
-- action 2 ❌ / ✔️
+- action 1 ❌ / ✅
+- action 2 ❌ / ✅
 - ...
 
 Résolution :
 
 ## 📽️ J'en fais la démonstration
 
-- J'ai ecrit un [tutoriel](...) ❌ / ✔️
-- J'ai fait une [présentation](...) ❌ / ✔️
+- J'ai ecrit un [tutoriel](...) ❌ / ✅
+- J'ai fait une [présentation](...) ❌ / ✅
 
 ```
 
