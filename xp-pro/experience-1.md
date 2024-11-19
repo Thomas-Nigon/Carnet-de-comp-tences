@@ -1,33 +1,20 @@
 # Période en entreprise du 23/11/2020 au 11/12/2020
 
-> Répond aux questions suivantes afin de préparer le partage d'expérience avec ton groupe
+## Le client:
 
-## Intégration
+Leader sur le marché de la nourriture animale, souhaite refaire son application pour gérer de bout en bout les protocoles de tests de nouveaux produits de la création aux tests auprès des animaux.
+Travail en méthode agile, sprint de 3 semaines, daily tous les matins, product backlog review & poker planning toute les semaines. Démo client et sprint review et rétro via mural en fin de sprint
 
-1. S'agit il de tes premiers jours dans l'entreprise ? (Si non, précise la date d'entrée)
+## Backend:
 
-2. Décris comment se déroule la communication avec ton tuteur. (fréquence, valeur de l'aide ajoutée)
+Projet mono repo via Nx 5 module full stack.
+Full CRUD NEST JS + test unitaire(Nest testing), E2E(super test & Nest Testing), et JSdoc, swagger et création de DTO pour interfacer le front et le back
 
-3. Décris ta mission actuelle au sein de l'entreprise
+## FrontEnd:
 
-4. Qu'est ce qui a bien fonctionné en terme de communication avec ton équipe ?
-
-5. Qu'est ce qui n'a pas bien fonctionné en terme de communication avec le reste de l'équipe ?
-
-6. Quelle(s) proposition(s) pourrais tu faire pour améliorer ton intégration dans l'équipe ?
-
-## Expérience technique
-
-1. Quel est le projet principal sur lequel tu as travaillé sur cette période. (liste les projets si il y en a plusieurs) ?
-
-2. Quelle est la tâche la plus intéressante accomplie lors de cette période ?
-
-3. Ta plus grosse réussite ?
-
-4. La plus grosse difficulté (echec ou perte de temps) ?
-
-5. Quel langage as tu le plus utilisé ?
-
-6. Quel design pattern as tu pu identifier ?
-
-7. Sur quel point ton formateur ou ton groupe peuvent ils t'aider ?
+Angular NgRx, signalStore, NgRx Toolkit
+Design angular material, modification des variables, des buttons, autocomplete, table, inputs
+Utilisation BEM et nested class et SCSS
+Création de tableaux avec Angular Material, test composant CYPRESS, appel du store qui appelle le service backend, compute le signal pour ne sélectionner que les info nécessaires et formatage des données via pipe.
+Pipe custom & directive custom pour tronquer la data et afficher le reste dans une tooltip angular mat
+Support i18n et internationalisation

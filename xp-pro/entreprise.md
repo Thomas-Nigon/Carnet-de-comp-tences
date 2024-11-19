@@ -1,10 +1,11 @@
 # Le nom de l'entreprise
 
+IBM CIC LILLE
+
 ## L'activité principale
 
-> Décris en quelques lignes l'activité principale de l'entreprise
+Le IBM Client Innovation Center Lille est une équipe de développeurs fullstack. qui offre ses services a des entreprises clients.
 
 ## Ton équipe
 
-> Décris l'équipe avec laquelle tu travailles, les différents postes et ton interaction avec ces postes.
-
+En fonction des projets l'equipe change, je suis actuelle avec une 1àene de personnes pour travailler pour un client leader sur le marché de l'alimentation animale.

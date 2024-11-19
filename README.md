@@ -28,4 +28,5 @@
 ## 👩‍🏭 Expérience professionelle
 
 - [Mon entreprise](xp-pro/entreprise.md)
-- [Période du xxx au xxx](xp-pro/experience-1.md)
+- [Période du 02/09 au 23/09](xp-pro/experience-0.md)
+- [Période du 2024-10-09 au 2024-11-08](xp-pro/experience-1.md)
