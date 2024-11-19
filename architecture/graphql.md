@@ -227,6 +227,7 @@ export class User extends BaseEntity {
   @OneToMany(() => Deck, (deck) => deck.ownerId)
   decks!: Deck[];
 }
+```
 
 J'ai ensuite défini un input pour créer un utilisateur, dans le même fichier user.ts
 
@@ -242,6 +243,7 @@ export class UserInput extends BaseEntity {
   @Field({ nullable: true })
   password?: string;
 }
+```
 
 J'ai ensuite défini un resolver pour la création d'un utilisateur, dans le fichier user.resolver.ts dans le répertoire src/resolvers afin de reste au plus proche d'une architecture MVC:
 
@@ -259,7 +261,7 @@ export class UserResolver {
     return users;
   }
 }
-````
+```
 
 ### Utilisation dans un projet ❌ / ✔️
 
@@ -314,3 +316,4 @@ Résolution :
 ```
 
 ```
+````
