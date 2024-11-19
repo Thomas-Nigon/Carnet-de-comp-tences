@@ -191,8 +191,6 @@ BackEnd : NodeJS, Express, Apollo Server, GraphQL et SQlite
 
 ### Un exemple personnel commenté ❌ / ✔️
 
-````
-
 Voici un exemple de code typescript commenté :
 Ici, j'ai défini un schéma pour un utilisateur. avec une entité, dans un fichier user.ts
 dans le répertoire src/entities.
@@ -316,4 +314,7 @@ Résolution :
 ```
 
 ```
-````
+
+```
+
+```
