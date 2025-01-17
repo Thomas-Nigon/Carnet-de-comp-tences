@@ -23,8 +23,6 @@
 - **GraphQL** : Plus flexible, réduit les surcharges réseau, idéal pour des interfaces complexes ou mobiles.
 - **REST** : Plus simple et convient à des API classiques, bien établies.
 
-- les besoins auxquels répond GraphQL - ✅
-
 ### Les besoins auxquels répond GraphQL - ✅
 
 #### 1. **Flexibilité des requêtes**
